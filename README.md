@@ -1,3 +1,3 @@
 # Demo-repository
-This is my First Git Repository
-Author-Deeplina Paul
+This is my First Git Repository.
+Author-Deeplina Paul.
